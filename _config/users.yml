@@ -274,3 +274,27 @@
   role: Writer
   gravatarHashId: d2ad388269e6c48845da82f59da31e34
   employedBy: Red Hat
+
+- userId: emingora
+  fullName: Enrique Mingorance Cano
+  role: Senior Software Engineer
+  gravatarHashId: d4fc2f6db03724741f7d4974ddb2d2a6
+  linkedInId: ginxo
+  githubUsername: ginxo
+  email: emingora AT redhat.com
+  employedBy: Red Hat
+
+- userId: danielezonca
+  fullName: Daniele Zonca
+  role: Contributor
+  gravatarHashId: b09ae180b02ca76ee04e408e5dc7aa67
+
+- userId: dmarrazzo
+  fullName: Donato Marrazzo
+  role: Contributor
+  gravatarHashId: ef5ad79f92fc5b4c6f8a28e11cf1c33a
+
+- userId: satishkale
+  fullName: Satish Kale
+  role: Contributor
+  gravatarHashId: 3a39052326f655d67d8d166089accf30
